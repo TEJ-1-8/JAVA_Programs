@@ -11,3 +11,19 @@
   8. Program to input 5 numbers from keyboard and find their sum and average. [SumAverage.java](https://github.com/TEJ-1-8/JAVA_Programs/blob/main/SumAvg.java)
   9. Program in Java to display the multiplication table of a given integer. [MultiplicationTable.java](https://github.com/TEJ-1-8/JAVA_Programs/blob/main/TableOfANumber.java)
   10. Program in Java to display the pattern like right angle triangle with a number. [PrintPattern.java](https://github.com/TEJ-1-8/JAVA_Programs/blob/main/RightTriangle.java)
+
+Module-2
+  1. Program to read two numbers and perform the arithmetic operations using method. [Arithmetic.java](https://github.com/TEJ-1-8/JAVA_Programs/blob/main/Calculator.java)
+  2. Program that performs arithmetic with values of type char. 
+  3. Design a class to overload a method compare() to return the greater of two as follows: [Compare.java](https://github.com/TEJ-1-8/JAVA_Programs/blob/main/Greater.java)
+    void compare(int, int)
+    void compare(char, char)
+    void compare(String, String)
+  4. Program that creates a class Account that stores a variable balance. The class has methods to start account, to deposit money, to          withdraw money and tell the current balance amount. [Account.java](https://github.com/TEJ-1-8/JAVA_Programs/blob/main/Temp.java)
+  5. Program to implement a Book class that stores the details of a book such as its code, title and price (Use constructors to initialize      the objects).
+  6. Program to differentiate between static and non-static methods.
+  7. Program to illustrate the usage of this, final and finalize.
+  8. Program to implement the concept of dynamic method dispatch.
+  9. Program to pass the variable length arguments.
+  10. Program to show the overloading of constructures.
+  11. Program to read the comman line arguments and print the total number of arguments and its values.
