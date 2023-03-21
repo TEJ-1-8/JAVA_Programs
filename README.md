@@ -1,6 +1,6 @@
 # JAVA_Programs
 
-1. Program to read a number from the user and print whether it is positive or negative. posorneg.java
+1. Program to read a number from the user and print whether it is positive or negative. [posorneg.java](https://github.com/TEJ-1-8/JAVA_Programs/blob/main/posorneg.java)
 2. Program to solve quadratic equations (use if, else if and else). QuadraticEquation.Java
 3. Take three numbers from the user and print the greatest number. GreatestThree.java
 4. Program that keeps a number from the user and generates an integer between 1 and 7 and displays the name of the weekday. Weekday.java
