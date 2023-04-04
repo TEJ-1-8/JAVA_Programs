@@ -27,3 +27,19 @@ Module-2
   9. Program to pass the variable length arguments.
   10. Program to show the overloading of constructures.
   11. Program to read the comman line arguments and print the total number of arguments and its values.
+
+Module-3
+  1. Program for sorting a given list of names in ascending order. ListSorting.java
+  2. Program to multiply two given matrices.
+  3. Program to find the maximum and minimum value in an array of size m passed as argument. ArrayMinMax.java
+  4. Program to read and print an array of size n rows with variable column size. (Hint: Irregular Array). [IrArray.java](https://github.com/TEJ-1-8/JAVA_Programs/blob/main/IrrArray.java)
+  5. Program that copies contents of one array to another using length member. CopyArray.java
+  6. Program to find element from an sorted array using binary search. (Hint: java.util.package)
+  7. Program to delete duplicate elements from an array of size 5. RemoveDuplicate.java
+  8. Program that reverses an array and stores it in the same array. ReverseArray.java
+  9. Program to implement all String methods on a Input String.
+  10. Program to convert a given integer array of size n into string.
+  11. Program to read and print a given string using different methods.
+  12. Program to reverse the words in a string.
+  13. Program to read a string and replace all the vowels with a $ symbol.
+  14. Program to count the number of occurrences of a search string in a given text string.
